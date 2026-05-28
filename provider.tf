@@ -14,7 +14,7 @@ terraform {
   }
 }
 
-
+##########################################hqreijriqwk[roiqe90yrf83284r32iokoejr238-de0qp#######]
 
 provider "azurerm" {
   features {}
